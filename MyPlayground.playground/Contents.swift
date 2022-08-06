@@ -9,7 +9,7 @@ age = currentYear - birthdayYear
 
 print("Hello my name is \(name) and my age is \(age)")
 
-if age <= 19 || age >= 13 {
+if age <= 19 && age >= 13 {
     print(" نعم يمكنك المشاركة في الكويت تبرمج")
 }
     else {
